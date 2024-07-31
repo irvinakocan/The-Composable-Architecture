@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6EB4B0332C5A7BF200CBFB8F /* The-Composable-Architecture-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "The-Composable-Architecture-Info.plist"; sourceTree = SOURCE_ROOT; };
 		6EC351802C56BEBD00814FFE /* The Composable Architecture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Composable Architecture.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EC351832C56BEBD00814FFE /* The_Composable_ArchitectureApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_Composable_ArchitectureApp.swift; sourceTree = "<group>"; };
 		6EC351852C56BEBD00814FFE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +101,7 @@
 		6EC351822C56BEBD00814FFE /* The Composable Architecture */ = {
 			isa = PBXGroup;
 			children = (
+				6EB4B0332C5A7BF200CBFB8F /* The-Composable-Architecture-Info.plist */,
 				6EC351832C56BEBD00814FFE /* The_Composable_ArchitectureApp.swift */,
 				6EC351852C56BEBD00814FFE /* ContentView.swift */,
 				6EC351B02C56BF5700814FFE /* CounterFeature.swift */,
@@ -441,6 +443,7 @@
 				DEVELOPMENT_TEAM = 922RJZ74F7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "The-Composable-Architecture-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -470,6 +473,7 @@
 				DEVELOPMENT_TEAM = 922RJZ74F7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "The-Composable-Architecture-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
